@@ -3,6 +3,8 @@ In this notebook, you will train a transformer model from scratch to perform sen
 
 Project code for Udacity's AI Programming with Python Nanodegree program. In this project, you are a Machine Learning Engineer at Cinescope, a growing entertainment company working to enhance its recommendation system. Your task is to fine-tune a transformer-based model for sentiment analysis using the IMDB dataset. By classifying reviews as positive or negative, you will help the company better understand user sentiment and deliver more personalized experiences.
 
+As tokenizer we use bert-base-uncased model to represent the text.
+
 # Run in your own computer
 
 To run in my own laptop was a little tricky.
